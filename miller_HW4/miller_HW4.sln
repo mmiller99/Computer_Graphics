@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "miller_HW4", "miller_HW4\miller_HW4.vcxproj", "{0E7FF01B-3231-4CCD-BC32-F433F5D9888B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E7FF01B-3231-4CCD-BC32-F433F5D9888B}.Debug|x64.ActiveCfg = Debug|x64
+		{0E7FF01B-3231-4CCD-BC32-F433F5D9888B}.Debug|x64.Build.0 = Debug|x64
+		{0E7FF01B-3231-4CCD-BC32-F433F5D9888B}.Debug|x86.ActiveCfg = Debug|Win32
+		{0E7FF01B-3231-4CCD-BC32-F433F5D9888B}.Debug|x86.Build.0 = Debug|Win32
+		{0E7FF01B-3231-4CCD-BC32-F433F5D9888B}.Release|x64.ActiveCfg = Release|x64
+		{0E7FF01B-3231-4CCD-BC32-F433F5D9888B}.Release|x64.Build.0 = Release|x64
+		{0E7FF01B-3231-4CCD-BC32-F433F5D9888B}.Release|x86.ActiveCfg = Release|Win32
+		{0E7FF01B-3231-4CCD-BC32-F433F5D9888B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86BAEBF1-15DC-47B5-8A90-2F831F19EFD0}
+	EndGlobalSection
+EndGlobal

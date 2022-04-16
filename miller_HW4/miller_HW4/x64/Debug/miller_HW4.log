@@ -1,0 +1,14 @@
+﻿  flower.cpp
+C:\Users\mmill\source\repos\miller_HW4\miller_HW4\flower.cpp(30,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mmill\source\repos\miller_HW4\miller_HW4\flower.cpp(30,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\mmill\source\repos\miller_HW4\miller_HW4\flower.cpp(34,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mmill\source\repos\miller_HW4\miller_HW4\flower.cpp(36,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mmill\source\repos\miller_HW4\miller_HW4\flower.cpp(38,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mmill\source\repos\miller_HW4\miller_HW4\flower.cpp(40,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+C:\Users\mmill\source\repos\miller_HW4\miller_HW4\main.cpp(47,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mmill\source\repos\miller_HW4\miller_HW4\main.cpp(48,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\mmill\source\repos\miller_HW4\miller_HW4\main.cpp(81,23): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\mmill\source\repos\miller_HW4\miller_HW4\main.cpp(83,23): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating Code...
+  miller_HW4.vcxproj -> C:\Users\mmill\source\repos\miller_HW4\x64\Debug\miller_HW4.exe

@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\mmill\source\repos\miller_HW1\miller_HW1\main.cpp(278,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mmill\source\repos\miller_HW1\miller_HW1\main.cpp(279,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\mmill\source\repos\miller_HW1\miller_HW1\main.cpp(300,29): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mmill\source\repos\miller_HW1\miller_HW1\main.cpp(310,29): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mmill\source\repos\miller_HW1\miller_HW1\main.cpp(322,29): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\mmill\source\repos\miller_HW1\miller_HW1\main.cpp(332,29): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  miller_HW1.vcxproj -> C:\Users\mmill\source\repos\miller_HW1\x64\Debug\miller_HW1.exe
